@@ -1,0 +1,21 @@
+{
+  "name": "cuack",
+  "version": "1.0.0",
+  "description": "cuack cuack patoos",
+  "main": "app.js",
+  "scripts": {
+    "test": "cuackaaa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "idk man"
+  },
+  "keywords": [
+    "man"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

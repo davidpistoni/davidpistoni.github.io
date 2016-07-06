@@ -1,0 +1,45 @@
+body {
+  background: #CBCACA;
+}
+
+nav {
+  width: auto;
+}
+
+.site-img {
+  height: 30px;
+  margin-right: calc(50% - 90px);
+}
+
+.banner {
+  padding: 0.4em;
+}
+
+.banner a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.banner a:hover {
+  color: #CBCACA;
+}
+
+.banner .ilu {
+  color: red;
+}
+
+.banner .all {
+  color: blue;
+}
+
+.banner .all-in {
+  color: yellow;
+}
+
+.home {
+  align-items: center;
+  width: 600px;
+  background: white;
+  border: 5px;
+}
