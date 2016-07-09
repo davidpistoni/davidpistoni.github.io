@@ -478,7 +478,7 @@ fieldset[disabled] .btn-success.active {
 }
 .portfolio-modal .close-modal .lr {
   height: 75px;
-  width: 1px;
+  width: 3px;
   margin-left: 35px;
   background-color: #2C3E50;
   transform: rotate(45deg);
@@ -490,7 +490,7 @@ fieldset[disabled] .btn-success.active {
 }
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
-  width: 1px;
+  width: 3px;
   background-color: #2C3E50;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
